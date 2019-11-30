@@ -1,10 +1,11 @@
 # Ansible Playbooks files
 
 ----
-## Web Servers Cluster Environment for Development
-
 ## Warning
 These Ansible & Vagrant repositories are meant for **Development** (& Staging) only. Right now, I don't have any plan on building these for Production. Though I've built provisioning and configurations as secured and robust as I can, I would have included different parameters and security measures for Production environments, including real security tests.
+
+----
+## Web Servers Cluster Environment for Development
 
 ## Description
 See my [Vagrantfiles/WebServersCluster (GitHub)](https://github.com/t0m-a/Vagrantfiles/tree/master/WebServerCluster)
